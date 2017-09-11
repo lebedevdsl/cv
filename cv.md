@@ -1,18 +1,13 @@
 # Dmitry Lebedev
 ### Linux DevOps Engineer
-SRE, SA, Web engineer, Operations Engineer
 Work Experience: 7+ years.
 
-##### Contact info
+##### Contact infod
 mail me:lebedevdsl@gmail.com
-
 call me: +48666853248
-
-or IM me on [Telegram](t.me/extraterrestr1al)
-
+or IM me on [Telegram](http://t.me/extraterrestr1al)
 Check me out on [github](http://github.com/lebedevdsl) or add me on [linkedin](http://linkedin.com/in/lebedevd)
-
-Send dead trees to: 80-869 al. Rzeczypospolitej 4D/152, Gdansk, Poland
+Send dead trees to: 80-369 al. Rzeczypospolitej 4D/152, Gdansk, Poland
 
 ##### Summary
 Open-minded and future-friendly, looking for new opportunities as Lead/Sr. Systems Administrator/DevOps. Love automating things, reading and writing documentation
@@ -27,14 +22,12 @@ Responsibilities:
 - Dev infrastructure orchestration and monitoring
 - Release engineering
 - Improvement of deployment processes
-
 Achievements:
 - Introduced ansible as deployment and orchestration tool. 
 - Set up scalable monitoring solution based on open source components
+Tools/tags: RHEL6/7, jenkins, ansible, graphite, vagrant, docker, rpm packaging.
 
-Tools/tags:
-RHEL6/7, jenkins, ansible, graphite, vagrant, docker, rpm packaging.
-
+----------------------------------------------------------------
 
 #### Operations engineer @ CleverData LLC
 from Aug 2016 till Feb 2017
@@ -47,16 +40,15 @@ Responsibilities:
 - Development of deployment jobs via Jenkins
 - CI process/tools support
 - Installation of Cloudera distribution for customers
-
 Achievements:
 - Automated Cloudera installation via ansible
 - Proposed monitoring architecture
 - Automated routine tasks
 - Packaging of in-house java product to deb/rpm
 - OS upgrades
+Tools/tags: Ubuntu, Cloudera, hadoop, Jenkins, java,deb/RPM packaging, graphite, ELK
 
-Tools/tags:
-Ubuntu, Cloudera, hadoop, Jenkins, java,deb/RPM packaging, graphite, ELK
+----------------------------------------------------------------
 
 #### DevOps Engineer @ Avito.ru
 from May 2014 till April 2016 (2y)
@@ -82,10 +74,9 @@ Achievements:
 - Maintained tuned and supported mongodb clusters
 - Maintained log aggregation/collection
 - Patched fluentd
+Tools/tags: Debian 6/7/8, nginx, php, python, redis, mongodb, deb packaging, reprepro, aptly, graphite, munin, fluentd, elasticsearch, vertica, provisioning, razor-server, puppet, ansible, bash, zsh.
 
-Tools/tags:
-Debian 6/7/8, nginx, php, python, redis, mongodb, deb packaging, reprepro, aptly, graphite, munin, fluentd, elasticsearch, vertica, provisioning, razor-server, puppet, ansible, bash, zsh.
-
+----------------------------------------------------------------
 
 #### System Administrator @ Media-Saturn
 from Aug 2013 till May 2014 (1y)
@@ -97,9 +88,9 @@ Responsibilities/Achievements:
 - Refactored old infrastructure and tried to integrate Chef in production environment. 
 - Successfully designed deployment system (written in Python, fabric)
 - Supported major PHP upgrade in production environment
+Tools/tags: Gentoo, Ubuntu, php, mysql, mariadb, chef, python, fabric, deployment
 
-Tools/tags:
-Gentoo, Ubuntu, php, mysql, mariadb, chef, python, fabric, deployment
+----------------------------------------------------------------
 
 #### Support engineer/Lead Support Engineer/Devops @ Oversun-Scalaxy 
 from April 2010 till Jul 2013 (3y)
@@ -109,15 +100,13 @@ Responsibilities/Achievements:
 - 2nd line support engineer. Redmine and Zendesk.
 - Customer support. 
 - Support lead for about 3 months. Task tracking and managing a team of 5 support specialists. Then decided to move on in system administration
-- On-duty admin. Managing and supporting public virtualization platform. Learned Chef configuration management software. Wrote several in-house cookbooks for Munin monitoring, Redmine and opensource email services(exim4/postfix+dovecot+roundcube).
+- On-duty admin. Managing and supporting public virtualization platform. Learned Chef configuration management software. Wrote several in-house cookbooks for Munin monitoring, Redmine and opensource email services(exim4/postfix+dovecot+ro
+undcube).
 - Successfully migrated redmine to Atlassian Confluence. 
 - Maintained several debian packages in OBS. Learned about Debian Packaging Policy.
 - Became familiar with python/ruby/php web application environments.
-
-Tools/tags:
-Debian 5/6, nginx, php-fpm, python, ruby, zabbix, chef, git, svn, KVM, xen, zendesk, redmine, shell, exim
+Tools/tags: Debian 5/6, nginx, php-fpm, python, ruby, zabbix, chef, git, svn, KVM, xen, zendesk, redmine, shell, exim
 
 Certifications:
 - ITIL Foundation in IT service management @ EXIN
 - CEFR C1 Advanced @ EF CEFR online testing
-
