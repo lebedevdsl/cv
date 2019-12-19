@@ -16,7 +16,7 @@ Open-minded and future-friendly, looking for new opportunities as Lead/Sr. Syste
 #### Lead Devops Engineer @ [Rocketbank](rocketbank.ru)
 from Jan 2019 till now
 
-DevOps: Responsible mainly for ci/cd pipeline construction and releaseengineering. Deepdived into rails once again
+DevOps: Responsible mainly for ci/cd pipeline construction and releaseengineering. Deep dived into rails once again
 Infra/Platform: Moved zabbix-based monitoring to graphite metricsstore with clickhouse as a backend. Terraformed and kubesprayed some k8s clusters on my own.
 
 Tools/tags: kubernetes, kustomize, consul, terraform, vsphere, ansible, ruby, python, redis, elasticsearch.
