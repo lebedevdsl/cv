@@ -15,6 +15,7 @@ Open-minded and future-friendly, looking for new opportunities as Lead/Sr. Syste
 ### Experience
 #### Lead Devops Engineer @ [Rocketbank](rocketbank.ru)
 from Jan 2019 till now
+_Moscow, Russia_
 
 DevOps: Responsible mainly for ci/cd pipeline construction and release engineering. Gitlab and Jira admin
 Deepdived into rails once again. 
