@@ -2,20 +2,33 @@
 ### Linux DevOps Engineer
 Work Experience: 7+ years.
 
-##### Contact infod
+##### Contact info
 mail me:lebedevdsl@gmail.com
-call me: +48666853248
+call me: +79163303932
 or IM me on [Telegram](http://t.me/extraterrestr1al)
 Check me out on [github](http://github.com/lebedevdsl) or add me on [linkedin](http://linkedin.com/in/lebedevd)
-Send dead trees to: 80-369 al. Rzeczypospolitej 4D/152, Gdansk, Poland
+
 
 ##### Summary
 Open-minded and future-friendly, looking for new opportunities as Lead/Sr. Systems Administrator/DevOps. Love automating things, reading and writing documentation
 
 ### Experience
+#### Lead Devops Engineer @ [Rocketbank](rocketbank.ru)
+from Jan 2019 till now
+
+DevOps: Responsible mainly for ci/cd pipeline construction and releaseengineering. Deepdived into rails once again
+Infra/Platform: Moved zabbix-based monitoring to graphite metricsstore with clickhouse as a backend. Terraformed and kubesprayed some k8s clusters on my own.
+
+Tools/tags: kubernetes, kustomize, consul, terraform, vsphere, ansible, ruby, python, redis, elasticsearch.
+
+----------------------------------------------------------------
+
+#### Short-term contract as a DevOps @ McKinsey & Company
+----------------------------------------------------------------
+
 #### Senior Devops Engineer @ Luxoft Poland
-from May 2017 till now
-_Gdansk, Poland_
+from May 2017 till May 2018
+_Gdansk and Warsaw, Poland_
 
 Responsibilities:
 - Develop and maintain CI/CD processes according to best practices
