@@ -3,9 +3,10 @@
 Work Experience: 9+ years.
 
 ##### Contact info
-mail me:lebedevdsl@gmail.com
-call me: +79163303932
-or IM me on [Telegram](http://t.me/extraterrestr1al)
+
+mail me:lebedevdsl@gmail.com 
+call me: +79163303932 
+or IM me on [Telegram](http://t.me/extraterrestr1al) 
 Check me out on [github](http://github.com/lebedevdsl) or add me on [linkedin](http://linkedin.com/in/lebedevd)
 
 
@@ -13,25 +14,24 @@ Check me out on [github](http://github.com/lebedevdsl) or add me on [linkedin](h
 Open-minded and future-friendly, looking for new opportunities as Lead/Sr. Systems Administrator/DevOps. Love automating things, reading and writing documentation
 
 ### Experience
-#### Lead Devops Engineer @ [Rocketbank](rocketbank.ru)
+#### Lead Devops Engineer @ [Rocketbank](https://rocketbank.ru)
 from Jan 2019 till now
 _Moscow, Russia_
 
-DevOps: Responsible mainly for ci/cd pipeline construction and release engineering. Gitlab and Jira admin
-Deepdived into rails once again. 
+DevOps: mainly responsible for ci/cd pipeline construction and release engineering. 
+Gitlab and Jira admin. Deepdived into ruby on rails once again.
 
-Infra/Platform: Moved zabbix-based monitoring to graphite metricsstore with clickhouse as a backend. Terraformed and kubesprayed some k8s clusters on my own.
+Platform/infra: Moved zabbix-based monitoring to graphite metricsstore with clickhouse as a backend. Terraformed and kubesprayed some k8s clusters on my own.
 
 Tools/tags: kubernetes, kustomize, consul, terraform, vsphere, ansible, ruby, python, redis, elasticsearch.
 
 ----------------------------------------------------------------
 
-
 #### Short-term contract as a DevOps @ McKinsey & Company
 ----------------------------------------------------------------
 
 
-#### Senior Devops Engineer @ Luxoft Poland
+#### Senior Devops Engineer @ [Luxoft Poland](https://luxoft.com)
 from May 2017 till May 2018
 _Gdansk and Warsaw, Poland_
 
@@ -47,7 +47,7 @@ Tools/tags: RHEL6/7, jenkins, ansible, graphite, vagrant, docker, rpm packaging.
 
 ----------------------------------------------------------------
 
-#### Operations engineer @ CleverData LLC
+#### Operations engineer @ [CleverData LLC](https://1dmc.io)
 from Aug 2016 till Feb 2017
 _Moscow, Russia_
 
@@ -68,7 +68,7 @@ Tools/tags: Ubuntu, Cloudera, hadoop, Jenkins, java,deb/RPM packaging, graphite,
 
 ----------------------------------------------------------------
 
-#### DevOps Engineer @ Avito.ru
+#### DevOps Engineer @ [avito.ru](https://avito.ru)
 from May 2014 till April 2016 (2y)
 _Moscow, Russia_
 
