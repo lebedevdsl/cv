@@ -40,9 +40,11 @@ Responsibilities:
 - Dev infrastructure orchestration and monitoring
 - Release engineering
 - Improvement of deployment processes
+
 Achievements:
 - Introduced ansible as deployment and orchestration tool. 
 - Set up scalable monitoring solution based on open source components
+
 Tools/tags: RHEL6/7, jenkins, ansible, graphite, vagrant, docker, rpm packaging.
 
 ----------------------------------------------------------------
@@ -58,12 +60,14 @@ Responsibilities:
 - Development of deployment jobs via Jenkins
 - CI process/tools support
 - Installation of Cloudera distribution for customers
+
 Achievements:
 - Automated Cloudera installation via ansible
 - Proposed monitoring architecture
 - Automated routine tasks
 - Packaging of in-house java product to deb/rpm
 - OS upgrades
+
 Tools/tags: Ubuntu, Cloudera, hadoop, Jenkins, java,deb/RPM packaging, graphite, ELK
 
 ----------------------------------------------------------------
@@ -92,6 +96,7 @@ Achievements:
 - Maintained tuned and supported mongodb clusters
 - Maintained log aggregation/collection
 - Patched fluentd
+
 Tools/tags: Debian 6/7/8, nginx, php, python, redis, mongodb, deb packaging, reprepro, aptly, graphite, munin, fluentd, elasticsearch, vertica, provisioning, razor-server, puppet, ansible, bash, zsh.
 
 ----------------------------------------------------------------
@@ -106,6 +111,7 @@ Responsibilities/Achievements:
 - Refactored old infrastructure and tried to integrate Chef in production environment. 
 - Successfully designed deployment system (written in Python, fabric)
 - Supported major PHP upgrade in production environment
+
 Tools/tags: Gentoo, Ubuntu, php, mysql, mariadb, chef, python, fabric, deployment
 
 ----------------------------------------------------------------
@@ -123,6 +129,7 @@ undcube).
 - Successfully migrated redmine to Atlassian Confluence. 
 - Maintained several debian packages in OBS. Learned about Debian Packaging Policy.
 - Became familiar with python/ruby/php web application environments.
+
 Tools/tags: Debian 5/6, nginx, php-fpm, python, ruby, zabbix, chef, git, svn, KVM, xen, zendesk, redmine, shell, exim
 
 Certifications:
